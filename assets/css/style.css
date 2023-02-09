@@ -1,0 +1,490 @@
+@font-face{
+    font-family: FiraGo;
+    src: url(fonts/FiraGo-bold.ttf);
+}
+
+header{
+    border-bottom: 2px solid;
+    padding: 30px 10px 15px 7px;
+	align-items: center;
+    margin-bottom: 60px;
+    
+   
+
+
+}
+ul{
+    text-align: center;
+    
+
+}
+li{
+    display: inline;
+    
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    margin-right: 66px;
+    font-family: 'Poppins', sans-serif;
+    
+    
+    
+
+}
+.products-section {
+    padding: 170px 120px 200px 120px;
+    
+    
+}
+
+.product-wrapper {
+    display: inline-block;
+    
+}
+
+.product-content {
+    border: 1px solid black;
+    display: inline-block;
+    width: 333px;
+    padding: 15px 15px 25px 15px;
+    margin-top: 10%;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.product-content img {
+    width: 100%;
+}
+
+.product-content h3 {
+    margin: 15px 0;
+    line-height: 24px;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.product-content p {
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: .5px;
+    font-family: 'Poppins', sans-serif;
+}
+.product-footer button {
+    font-size: 12px;
+    line-height: 18px;
+    padding: 6px 26px;
+    background-color: inherit;
+    border: 1px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+    text-transform: lowercase;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.product-content h3,
+.product-content p {
+    margin-left: 10px;
+}
+
+
+
+.product-footer button:hover {
+    background-color: #F5F5F5;
+    color:black;
+    text-decoration: underline;
+}
+
+.product-footer {
+    text-align: right;
+    margin-top: 20px;
+}
+
+.product-wrapper.middle {
+    margin: 0 100px;
+   
+}
+.product-wrapper.left{
+
+    margin-top: 65px;
+
+    margin-left: 180px;
+}
+.specifications{
+
+    height: 70px;
+    width: 280px;
+    text-align: left;
+    font-size: 14px;
+    margin-top: 62px;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    
+    
+    
+
+
+}
+.tt{
+    height: 29px;
+    width: 404px;
+    text-align: center;
+    font-size: 24px;
+    margin-left: 37%;
+    margin-top: 72px;
+    font-weight: 600;
+    margin-bottom: -10%;
+    font-family: FiraGO;
+    
+}
+
+.bt{
+    text-align: right;
+    font-size: 16px;
+    text-decoration: underline;
+    font-weight: 300;
+    margin-right: 10%;
+    font-family: FiraGO;
+    
+}
+.ct{
+    font-size: 40px;
+    color: #7D0000;
+    text-align: center;
+    margin-top: 147px;
+    font-family: 'Andada Pro', serif;
+    
+}
+
+
+iframe{
+
+    width: 908px;
+    height: 423px;
+    text-align: center;
+    margin-top: 555px;
+    margin-left: 266px;
+}
+   
+
+
+.abc{
+    font-size: 40px;
+    color: #7D0000;
+    text-align: center;
+    margin-top: 134px;
+    margin-bottom: -115px;
+    font-family: 'Andada Pro', serif;
+
+    
+}
+
+.lorso{
+    
+    width: 650px;
+    height: 205px;
+    font-size: 26px;
+    margin-top: 296px;
+    margin-left: 330px;
+    margin-right: 59px;
+    font-family: 'Andada Pro', serif;
+
+}
+.adres{
+    font-size: 25px;
+    line-height: 29px;
+    margin-top: 677px;
+    margin-left: 650px;
+    font-weight: 400;
+    text-decoration: underline;
+    font-style: italic;
+    font-family: 'Andada Pro', serif;
+}
+.hangers{
+    margin-top: -200px;
+    margin-left: 1050px;
+    
+}
+.blogso{
+    font-size: 24px;
+    margin-top: 47px;
+    margin-left: 94px;
+    font-family: FiraGO;
+    font-weight: 400;
+    
+}
+.navtwo{
+margin-top: 169px;
+font-weight: 900;
+font-size: 18px;
+margin-right: 65px;
+
+}
+iframe{
+    margin-left: 27%;
+    margin-top: 10%;
+    height: 423px;
+    width: 908px;
+    
+}
+
+
+.info{
+    width: 880px;
+    height: 98px;
+    display: inline-block;
+}
+.container{
+    height: 98px;
+    width: 880px;
+}
+.profi img{
+    margin-top: 169px;
+    margin-left: 206px;
+}
+.name{
+    font-size: 30px;
+    margin-top: 232px;
+    margin-left: 444px;
+}
+.first{
+    margin-top: 313px;
+    margin-left: 280px;
+    font-size: 27px;
+    display: inline-block;
+    font-weight: 600;
+    font-family: 'Andada Pro', serif;
+    color: #0B253E;
+    
+       
+}
+
+.second{
+    margin-top: 313px;
+    margin-left: 324px;
+    font-size: 27px;
+    display: inline-block;
+    font-family: 'Andada Pro', serif;
+    font-weight: 600;
+    color: #0B253E;
+}
+.cluster{
+    margin-top: -10%;
+    margin-left: 15%;
+}
+.top{
+    margin-bottom: 34px;
+    font-style: italic;
+}
+.topp{
+    margin-bottom: 34px;
+}
+
+.foto{
+    margin-top: 169px;
+    margin-left: 206px;
+    display: inline-block;
+
+}
+.container{
+    background-color: #F5F5F5;
+    width: 444px;
+    height: 171px;
+    margin-top: 169px;
+    margin-left: 206px;
+    display: inline-block;
+    
+}
+.p1{
+    margin-right: 65px;
+    font-size: 18px;
+    font-weight: 900;
+   
+}
+.p2{
+    margin-right: 65px;
+    font-size: 18px;
+    font-weight: 900;
+    
+}
+.p3{
+    margin-right: 65px;
+    font-size: 18px;
+    font-weight: 900;
+    
+}
+.nav2{
+    margin-top: 100px;
+    font-size: 18px;
+    font-weight: 900;
+    margin-bottom: 68px;
+    font-family: FiraGO;
+    
+}
+.card1{
+    width: 1248px;
+    height: 276px;
+    margin-left: 94px;
+    display: inline-block;
+    padding-bottom: 39px;
+    margin-bottom: 117px;
+
+   
+}
+.card2{
+    width: 1248px;
+    height: 276px;
+    margin-left: 94px;
+    display: inline-block;
+    padding-bottom: 39px;
+}
+
+
+.propic{
+    margin-top: 169px;
+    margin-left: 206px;
+    width: 170px;
+    height: 170px;
+    display: inline-block;
+}
+.spanz{
+    margin-top: -20%;
+    margin-left: 0;
+    display: inline-block;
+}
+.text{
+    margin-top: -230px;
+    margin-left: 330px;
+    width: 918px;
+    height: 190px;
+    background-color: #E5EBE5;
+    padding-top: 38px;
+    padding-left: 36px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+.head{
+    margin-bottom: 32px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: FiraGo;
+}
+.para{
+    font-size: 14px;
+    font-weight: 350;
+    font-family: FiraGo;
+    color: #474747;
+    
+}
+
+.butto{
+    height: 40px;
+    width: 174px;
+    font-size: 12px;
+    font-family: FiraGo;
+    text-decoration: underline;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 1110px;
+    margin-top: 14px;
+    border-radius: 4px;
+    border: solid black 1px;
+    background-color: #F5F5F5;
+}
+
+.card1 img{
+    border-bottom-left-radius: 4px;
+    border-top-left-radius: 4px;
+}
+.card2 img{
+    border-bottom-left-radius: 4px;
+    border-top-left-radius: 4px;
+}
+.card1{
+    margin-left: 10%;
+}
+.card2{
+    margin-left: 10%;
+}
+.profi{
+    margin-top: 169px;
+    margin-left: 206px;
+}
+.pp{
+    margin-top: -130px;
+    margin-left: 444px;
+    font-size: 30px;
+    margin-bottom: 14px;
+    font-family: 'Poppins', sans-serif;
+}
+.ppp{
+    margin-left: 444px;
+    
+    font-size: 22px;
+    font-style: italic;
+    color: #546CCC;
+    font-family: 'Poppins', sans-serif;
+}
+.ab{
+    font-size: 24px;
+    margin-left: 225px;
+    margin-top: 150px;
+    width: 135px;
+    border-bottom: solid #7D0000 1px;
+    padding-bottom: 16px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.ln1{
+    margin-top: 58px;
+    margin-left: 230px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+}
+.mid{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.ln2{
+    margin-top: -125px;
+    margin-left: 462px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.mid2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+.green{
+    width: 265px;
+    height: 70px;
+    padding: 16px 32px;
+    font-size: 25px;
+    background-color: #87AC87;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 10px;
+    margin-top: 0px;
+    margin-left: 1100px;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+    
+}
+
+
+.beta{
+    margin-left: 1398px;
+    
+}
+.alpha{
+    margin-left: 126px;
+    
+}
+
